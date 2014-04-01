@@ -1,0 +1,31 @@
+1.What you'll be making
+Before we ask you to write a bunch of code, we think it's helpful for you to see exactly what you'll be making in this project.
+
+Check out the index.html file and the Result tab for an example—we've made our very own webpage.
+
+Instructions
+Hit Save & Submit Code to start building your own!
+
+2.Every house needs a frame
+An HTML page is sort of like a house: it needs a certain number of essential structures in order to work.
+
+Just like a house, an HTML page needs a frame. In this case, your frame is made of <!DOCTYPE>, <html>, <head>, and <body> tags.
+
+Instructions
+Your webpage is blank as the day it was born! Let's add five things:
+
+The <!DOCTYPE> tag
+Your <html> tags
+Your <head> tags
+<title> tags (with any title you like!) between your head tags
+Your <body> tags
+?
+Hint
+Feel free to look back at HTML Basics if you get stuck.
+
+3.It's better with a header
+Your webpage could use an <h1> header between the body tags to let everyone know that the page is about you.
+
+Instructions
+Create an <h1> tag inside your body tags. Between your opening <h1> and closing </h1> tags, type your name for all to see!
+
